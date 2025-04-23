@@ -1,0 +1,4 @@
+numpy>=1.19.3
+opencv-python>=4.5.1
+mediapipe>=0.8.10
+#requests 
